@@ -1,1 +1,2 @@
+feature qa
 hello cybage welcome to qa training
